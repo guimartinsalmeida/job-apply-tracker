@@ -2,7 +2,7 @@ const App = () => {
 
   return (
     <div>
-        <h1>text</h1>
+        <h1>testo</h1>
     </div>
   );
 };
